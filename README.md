@@ -1,3 +1,1 @@
-# Elastic Collisions & Projectiles
-
-In progress
+# Elastic Collisions
